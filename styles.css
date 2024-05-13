@@ -45,11 +45,12 @@ body {
     z-index: -1;
     background-image: url('https://www.transparenttextures.com/patterns/night-sky.png');
     animation: starry 10s infinite alternate;
+    opacity: 0.5; /* Added opacity to make the stars less prominent */
   }
   
   @keyframes starry {
     from {
-      filter: brightness(0.2);
+      filter: brightness(0.5); /* Changed the starting brightness */
     }
     to {
       filter: brightness(1);
