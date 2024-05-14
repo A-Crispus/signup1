@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000;
+  background-color: #d4c5c5;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  color: #fff;
+  color: #252323;
 }
 
 form {
@@ -27,8 +27,8 @@ input, button {
 }
 
 button {
-  background-color: #007bff;
-  color: #fff;
+  background-color: #05545f39;
+  color: #e5e36f;
   cursor: pointer;
 }
 
