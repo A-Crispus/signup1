@@ -11,14 +11,4 @@ inputs.forEach(input => {
   });
 });
 
- /*
-var text = new createjs.Text(
-  "Hello World!",
-  "bold 24px Arial", 
-  "#fff");
-  text.textAlign = "centre";
-  text.x = w / 2;
-  text.y = h / 2 - text.
-  getMeasuredLineHeight();
-  stage.addChild(text);
-  */
+ 
